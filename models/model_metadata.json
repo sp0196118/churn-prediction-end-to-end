@@ -1,0 +1,29 @@
+{
+  "algorithm": "RandomForestClassifier",
+  "roc_auc": 0.8274703557312253,
+  "features_numeric": [
+    "SeniorCitizen",
+    "tenure",
+    "MonthlyCharges"
+  ],
+  "features_categorical": [
+    "customerID",
+    "gender",
+    "Partner",
+    "Dependents",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod",
+    "TotalCharges"
+  ],
+  "trained_at": "2026-01-08 17:33"
+}
